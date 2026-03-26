@@ -15,7 +15,7 @@ Los controles son:
 - Moverse lateralmente a la izquierda (A)
 - Mirar hacia arriba o hacia abajo (Ratón, eje Y)
 - Mirar hacia la derecha o hacia la izquierda (Ratón, eje X)
-- Correr (Shift derecho)
+- Correr (Shift izquierdo)
 - Salto (barra espaciadora)
 - Apuntar/Zoom (clic derecho del ratón)
 - Cambiar al arma 1 (1)
